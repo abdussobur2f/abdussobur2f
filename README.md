@@ -1,11 +1,10 @@
- 
+<div align="center">
+<img src="https://scontent.fdac96-1.fna.fbcdn.net/v/t39.30808-6/397158275_1537467426992744_5586428321852210127_n.jpg?stp=dst-jpg_p526x296&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeH_jCSSF6c_elsmfoQyOuG_OKPfMcXYrIo4o98xxdisikEhE3nNJSTA2MPXjmif1QBXSvdWGvsJkrgRcM7Yxc2F&_nc_ohc=Py5VaoK5kygAX8eChU5&_nc_zt=23&_nc_ht=scontent.fdac96-1.fna&oh=00_AfAKCEfeui3IdH5pF388pOiRhgkCnyBMN2axW7Hx6XWREw&oe=655122D1" align="center" height="400" width="400" />
+</div>  
   
 
 ### **<div align="center">Hi, I'm Abdus Sobur, a  front-end web developer 👨‍💻 🚀</div>**  
-
-  <div align="center">
-<img src="https://scontent.fdac96-1.fna.fbcdn.net/v/t39.30808-6/397158275_1537467426992744_5586428321852210127_n.jpg?stp=dst-jpg_p526x296&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeH_jCSSF6c_elsmfoQyOuG_OKPfMcXYrIo4o98xxdisikEhE3nNJSTA2MPXjmif1QBXSvdWGvsJkrgRcM7Yxc2F&_nc_ohc=Py5VaoK5kygAX8eChU5&_nc_zt=23&_nc_ht=scontent.fdac96-1.fna&oh=00_AfAKCEfeui3IdH5pF388pOiRhgkCnyBMN2axW7Hx6XWREw&oe=655122D1" align="center" style="width: 100%" />
-</div> 
+  
 
 - 🔭 I’m currently learning more advanced   
   
@@ -30,13 +29,20 @@
 ### Frontend  
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+ <br/>
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
+
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
+
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="50" /></a>  
