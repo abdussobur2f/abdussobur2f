@@ -9,7 +9,7 @@
 - 🔭 I’m currently learning more advanced   
   
 
-- 🌱 I’m currently learning  back-end language express JS or database MongoDB  
+- 🌱 I’m currently learning in back-end language express JS with the database MongoDB  
   
 
 - ❓ Ask me about anything related to Front-End and related technologies  
