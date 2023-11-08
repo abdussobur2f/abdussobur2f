@@ -1,10 +1,11 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+ 
   
 
 ### **<div align="center">Hi, I'm Abdus Sobur, a  front-end web developer 👨‍💻 🚀</div>**  
-  
+
+  <div align="center">
+<img src="https://scontent.fdac96-1.fna.fbcdn.net/v/t39.30808-6/397158275_1537467426992744_5586428321852210127_n.jpg?stp=dst-jpg_p526x296&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeH_jCSSF6c_elsmfoQyOuG_OKPfMcXYrIo4o98xxdisikEhE3nNJSTA2MPXjmif1QBXSvdWGvsJkrgRcM7Yxc2F&_nc_ohc=Py5VaoK5kygAX8eChU5&_nc_zt=23&_nc_ht=scontent.fdac96-1.fna&oh=00_AfAKCEfeui3IdH5pF388pOiRhgkCnyBMN2axW7Hx6XWREw&oe=655122D1" align="center" style="width: 100%" />
+</div> 
 
 - 🔭 I’m currently learning more advanced   
   
@@ -97,10 +98,10 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abdus-sobur-757541275/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/iamrishavanand" target="_blank">
+<a href="https://www.facebook.com/https://web.facebook.com/abdus.sobur.904108" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/iamrishavanand" target="_blank">
+<a href="https://instagram.com/https://www.instagram.com/msobur025/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21779674/abdus-sobur" target="_blank">
@@ -113,7 +114,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Abdussobur2f&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
@@ -130,7 +131,7 @@ If things goes well, this section should automatically be replaced by a list of 
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=abdussobur2f&&style=flat-square" align="center" />
 </div>  
   
 
