@@ -2,7 +2,7 @@
 
 ### **<div align="center" >Hi, I'm Abdus Sobur, A Front-End Web Developer 👨‍💻 🚀</div>**  
   <div align="center">
-<img src="https://scontent.fdac96-1.fna.fbcdn.net/v/t39.30808-6/397158275_1537467426992744_5586428321852210127_n.jpg?stp=dst-jpg_p526x296&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeH_jCSSF6c_elsmfoQyOuG_OKPfMcXYrIo4o98xxdisikEhE3nNJSTA2MPXjmif1QBXSvdWGvsJkrgRcM7Yxc2F&_nc_ohc=Py5VaoK5kygAX8eChU5&_nc_zt=23&_nc_ht=scontent.fdac96-1.fna&oh=00_AfAKCEfeui3IdH5pF388pOiRhgkCnyBMN2axW7Hx6XWREw&oe=655122D1" align="center" height="400" width="400" />
+<img src="[https://scontent.fdac96-1.fna.fbcdn.net/v/t39.30808-6/397158275_1537467426992744_5586428321852210127_n.jpg?stp=dst-jpg_p526x296&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeH_jCSSF6c_elsmfoQyOuG_OKPfMcXYrIo4o98xxdisikEhE3nNJSTA2MPXjmif1QBXSvdWGvsJkrgRcM7Yxc2F&_nc_ohc=Py5VaoK5kygAX8eChU5&_nc_zt=23&_nc_ht=scontent.fdac96-1.fna&oh=00_AfAKCEfeui3IdH5pF388pOiRhgkCnyBMN2axW7Hx6XWREw&oe=655122D1](https://scontent.fdac96-2.fna.fbcdn.net/v/t39.30808-6/363844365_1488986175174203_2706322588047631210_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=9534ce&_nc_eui2=AeGepMskugSnK72BPAUuSz8LtQFrkagi6u61AWuRqCLq7hmB5NXeBDNpCcHJhRMlqDJCQ_vZOo9E65SJIsnkXAxm&_nc_ohc=zI1rsg5mWYEAX9_Cnf0&_nc_zt=23&_nc_ht=scontent.fdac96-2.fna&oh=00_AfAdIHeQL8x64HZcUFeBBsBIRMTUR42j45RrkKJS2J6pCg&oe=65E776F0)" align="center" height="400" width="400" />
 </div>  
   
 
